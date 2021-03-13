@@ -8,13 +8,12 @@
 body {
   font-family: "Comfortaa", cursive;
   background: radial-gradient(circle at -14.41% 50%, #ff9bff 0, #e890ff 25%, #c783f4 50%, #a776de 75%, #8b6aca 100%);
-  overflow: hidden;
 }
 
 .todo {
   width: 70%;
   height: 100%;
-  margin: 70px auto;
+  margin: 50px auto;
 }
 
 .todo .mapa {
@@ -57,7 +56,7 @@ body {
   width: 150px;
   height: 150px;
   text-align: center;
-  padding: 50px 0;
+  padding: 30px 0;
   background: #fff;
   border-radius: 50%;
   display: -webkit-box;
