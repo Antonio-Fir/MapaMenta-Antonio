@@ -73,7 +73,7 @@ body {
       -ms-flex-align: center;
           align-items: center;
   overflow: hidden;
-  -webkit-transition: .5s;
+  -webkit-transition: .3s;
   transition: .5s;
 }
 
