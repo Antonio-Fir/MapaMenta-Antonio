@@ -14,7 +14,7 @@ body {
 .todo {
   width: 50%;
   height: 100%;
-  margin: 150px auto;
+  margin: 70px auto;
 }
 
 .todo .mapa {
@@ -79,8 +79,8 @@ body {
 }
 
 .todo .mapa .secciones .datos:hover {
-  width: 400px;
-  height: 400px;
+  width: 370px;
+  height: 370px;
   padding: 0;
   -webkit-box-shadow: -6px 8px 11px 0px rgba(50, 50, 50, 0.75);
           box-shadow: -6px 8px 11px 0px rgba(50, 50, 50, 0.75);
